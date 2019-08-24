@@ -1,13 +1,14 @@
 # Profiles Rest API
 Profiles Rest API source code.
 
-## start django project
+## creating django project and application
+### start django project
 django-admin.py startproject profile_project .
 
-## create django application
+### create django application
 python manage.py startapp profiles_api
 
-## Enable app in Django settings file
+### Enable app in Django settings file
 profile_project > settings.py >
 INSTALLED_APPS [
   'rest-framework',
