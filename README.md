@@ -18,4 +18,4 @@ python manage.py runserver
 
 
 ## Setup the Database
-[create databases](https://github.com/sanjeevseera/profiles-rest-api/commit/173ca99892c05bc08e5e6c2163f4f5184192a5b0)
+[create databases](https://github.com/sanjeevseera/profiles-rest-api/commit/70c914bc3be9d71830e679a5a4df2faeeca7eeaa)
