@@ -27,3 +27,6 @@ python manage.py runserver
 
 ## View Sets
 [Added View sets to Profile api](https://github.com/sanjeevseera/profiles-rest-api/commit/0d0d542b44e6645c33673e6110a5bae06b702f01)
+
+
+## Profile ViewSet
