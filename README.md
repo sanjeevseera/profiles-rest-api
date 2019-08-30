@@ -26,7 +26,17 @@ python manage.py runserver
 [Added GET, PUT, PATCH, DELETE](https://github.com/sanjeevseera/profiles-rest-api/commit/c30d78831e830205797acfd8f890595d862502d8)
 
 ## View Sets
-[Added View sets to Profile api](https://github.com/sanjeevseera/profiles-rest-api/commit/0d0d542b44e6645c33673e6110a5bae06b702f01)
+[View sets to Profile api](https://github.com/sanjeevseera/profiles-rest-api/commit/0d0d542b44e6645c33673e6110a5bae06b702f01)
 
 
 ## Profile ViewSet
+[profiles ViewSet](https://github.com/sanjeevseera/profiles-rest-api/commit/43f8866a5b7c83dd5e29c2c1f06658d491461349)
+
+[profiles permissions](https://github.com/sanjeevseera/profiles-rest-api/commit/1664a5b68cd8a81409cf6e9638a4f6345af4856d)
+
+## search user profile
+[search user profile](https://github.com/sanjeevseera/profiles-rest-api/commit/65242eb9f2701762f2e6e60c363ac01fdb0b2724)
+
+## Login API
+[login API](https://github.com/sanjeevseera/profiles-rest-api/commit/1664a5b68cd8a81409cf6e9638a4f6345af4856d)
+
